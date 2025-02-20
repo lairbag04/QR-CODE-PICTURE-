@@ -1,0 +1,35 @@
+    body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(213,225,239,255);
+    }
+    .whitebox{
+    border-radius: 10px;
+    padding: 9px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: center;
+    height: px;
+    width: 190px;
+    }
+    .image{
+    border-radius: 7px;
+    width: 190px;
+    }
+    
+    .title{
+    font-family: outfit;
+    font-size: 14px;
+    text-align: center;
+    margin: 10px;
+
+    }
+    .paragraph{
+    margin: 8px;
+    font-family: outfit;
+     font-size: 10px;   
+     text-align: center;
+    }
